@@ -1,0 +1,8 @@
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\AtividadeFinal\AtividadeFinal\AtividadeFinal\obj\Debug\AtividadeFinal.csproj.AssemblyReference.cache
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\AtividadeFinal\AtividadeFinal\AtividadeFinal\obj\Debug\AtividadeFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\AtividadeFinal\AtividadeFinal\AtividadeFinal\obj\Debug\AtividadeFinal.csproj.CoreCompileInputs.cache
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\AtividadeFinal\AtividadeFinal\AtividadeFinal\bin\Debug\AtividadeFinal.exe.config
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\AtividadeFinal\AtividadeFinal\AtividadeFinal\bin\Debug\AtividadeFinal.exe
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\AtividadeFinal\AtividadeFinal\AtividadeFinal\bin\Debug\AtividadeFinal.pdb
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\AtividadeFinal\AtividadeFinal\AtividadeFinal\obj\Debug\AtividadeFinal.exe
+C:\Users\MatheusHenriquePalin\Documents\Faculdade\AtividadesEstruturasDeDados2\AtividadeFinal\AtividadeFinal\AtividadeFinal\obj\Debug\AtividadeFinal.pdb
